@@ -1,8 +1,8 @@
 {
 	"name": "G-Index Backend",
 	"description": "This is the Live Backend Server for G-Index for Authenticating Users",
-	"repository": "https://github.com/sridhar885/gindex-v4/backend",
-	"keywords": ["gindex-backend"],
+	"repository": "https://github.com/sridhar885/gindex-v4/tree/master/backend",
+	"keywords": ["backend"],
 	"env": {
 		"DBURL": {
 			"description": "MongoDB Atlas Connect URL for Your Database",
